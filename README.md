@@ -1,1 +1,1 @@
-# Telecom-churn-prressionediction-using-logistic-reg
+# Telecom-churn-prediction-using-logistic-reg
